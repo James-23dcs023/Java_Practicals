@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class app
+class prc5
 {
 	public static void main(String args[])
 	{
