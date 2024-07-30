@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class prc14
+class date
 {
 	Scanner s=new Scanner(System.in);
 	int d,m,y;
@@ -52,7 +52,7 @@ class prc14
 	}
 }
 
-class dateTest
+class prc14
 {
 	public static void main(String a[])
 	{
