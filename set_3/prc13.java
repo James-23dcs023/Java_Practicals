@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class prc13
+class emp
 {
 	Scanner s=new Scanner(System.in);
 	String fs;
@@ -65,7 +65,7 @@ class prc13
 	
 }
 
-class Emptest
+class prc13
 {
 	public static void main(String a[])
 	{
