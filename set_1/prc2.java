@@ -1,4 +1,4 @@
-class demo
+class prc2
 {
 	public static void main(String a[])
 	{
